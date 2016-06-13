@@ -8,3 +8,7 @@ https://github.com/adafruit/DHT-sensor-library
 ## Barometric Pressure Sensor Library
 
 https://github.com/adafruit/Adafruit-BMP085-Library
+
+## Fingerprint Sensor Library
+
+https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library
